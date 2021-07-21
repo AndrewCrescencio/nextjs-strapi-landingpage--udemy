@@ -1,5 +1,5 @@
 export default {
-  url: 'https://strapi-landing-pages-project-2.herokuapp.com',
-  siteName: 'Otávio Miranda',
+  url: 'https://reactjs-storybook-strapi-mongo.herokuapp.com',
+  siteName: 'Andrew Crescencio',
   defaultSlug: 'landing-page',
 };

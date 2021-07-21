@@ -1,5 +1,4 @@
 /* eslint-disable no-undef */
-const b = 1;
 import config from '../config';
 import { loadPages } from './load-pages';
 import * as mapDataModule from './map-data';
